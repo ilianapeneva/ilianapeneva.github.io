@@ -19,7 +19,9 @@ approaches to study cancer genomes.
 
 #### Contact
 e-mail: iliana.peneva@bdi.ox.ac.uk
+
 GitHub: [ilianapeneva](https://github.com/ilianapeneva/)
+
 Twitter: [@IlianaSPeneva](https://twitter.com/IlianaSPeneva)
 
 
