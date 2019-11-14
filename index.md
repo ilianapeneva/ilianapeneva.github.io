@@ -18,8 +18,9 @@ approaches to study cancer genomes.
 - BSc with First Class Honours in Mathematics with Management, University of Edinburgh, 2010-2014
 
 #### Contact
-:envelope: iliana.peneva@bdi.ox.ac.uk
-
+e-mail: iliana.peneva@bdi.ox.ac.uk
+GitHub: [ilianapeneva](https://github.com/ilianapeneva/)
+Twitter: [@IlianaSPeneva](https://twitter.com/IlianaSPeneva)
 
 
 ---
