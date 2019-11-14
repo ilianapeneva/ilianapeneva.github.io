@@ -12,10 +12,6 @@ I am interested in studying cancer evolution and tumour heterogeneity and in dev
 approaches to study cancer genomes. 
 
 
-### EDUCATION 
-- PhD in Mathematics of Systems, University of Warwick, 2015-2019
-- MSc with Distinction in Mathematics of Systems, University of Warwick, 2014-2015
-- BSc with First Class Honours in Mathematics with Management, University of Edinburgh, 2010-2014
 
 #### Contact
 e-mail: iliana.peneva@bdi.ox.ac.uk
