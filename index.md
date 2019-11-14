@@ -12,6 +12,10 @@ I am interested in studying cancer evolution and tumour heterogeneity and in dev
 approaches to study cancer genomes. 
 
 
+- [Publications](pages/publications.html)
+- [Talks](pages/talks.html)
+- [Education](pages/education.html)
+- [Blog](pages/blog.html)
 
 #### Contact
 e-mail: iliana.peneva@bdi.ox.ac.uk
